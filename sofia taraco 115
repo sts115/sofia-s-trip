@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<h1><BIG>Sofia´s trip to London</BIG></h1>
+  <title>Sofia´s trip to London</title>
+   <style>
+          body {
+            background-color: lightblue; 
+            }
+    </style>
+<h2>First day</h2>
+
+<p>My trip to London was incredible, when we arrived the first thing we did was check in at the hotel where we were staying near Trafalgar Square</p>
+<img src="fuente.JPG">
+
+<p>After that we went to a cafe because we hadn't eaten, it was super nice, I ordered a sandwich and a donut, my mom preferred just a coffee, then we went to a small market and bought some very cute porcelain figurines.</p>
+<img src="cafe.JPG" width="200" height="300">
+
+<h2>Second day</h2>
+<p>Visit the British Museum, admiring the Rosetta Stone and Egyptian mummies. Then, a tour of Borough Market offers me gastronomic delights: from artisanal cheeses to delicious desserts.</p>
+<img src="museo.JPG" width="200" height="300">
+
+
+<h3>Last day</h3>
+<p>I decide to spend the last day relaxing in Hyde Park. I rent a bike and ride its extensive trails. Afterwards, I head to Oxford Street for a shopping session. Iconic brand stores and unique boutiques fill my day with exciting finds.</p>
+<img src="park.JPG" width="200" height="300">
+
+
+
+</html>
+
